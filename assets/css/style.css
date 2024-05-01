@@ -2407,7 +2407,14 @@ h2.widget-title {
 /* Breatcam style two
 =========================*/
 .breatcam-section {
-    background: url(../images/resource/breatcam-bg2.jpg);
+    background: url(../images/services/about.png);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 415px;
+}
+.breatcam-section {
+    background: url(../images/services/about.png);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
